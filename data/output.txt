@@ -1,0 +1,126 @@
+request: hãy bật công tắc đèn tầng 1
+score = 0.75, device = cầu thang tầng 1, type = công tắc đèn, action = bật
+score = 0.75, device = hành lang tầng 1, type = công tắc đèn, action = bật
+score = 0.73, device = đèn tầng thượng, type = công tắc đèn, action = bật
+score = 0.71, device = tầng hầm, type = công tắc đèn, action = bật
+score = 0.71, device = phòng vệ sinh tầng 1, type = công tắc đèn, action = bật
+---------------------
+
+request: bật đèn kho
+score = 0.67, device = kho, type = công tắc đèn, action = bật
+score = 0.45, device = đèn tầng thượng, type = công tắc đèn, action = bật
+score = 0.45, device = đèn phòng ngủ, type = công tắc đèn, action = bật
+score = 0.44, device = khách, type = công tắc đèn, action = bật
+score = 0.40, device = tầng hầm, type = công tắc đèn, action = bật
+---------------------
+
+request: tắt công tắc đèn phòng trong tầng 4
+score = 0.94, device = phòng trong tầng 4, type = công tắc đèn, action = tắt
+score = 0.82, device = phòng trong tầng 5, type = công tắc đèn, action = tắt
+score = 0.82, device = phòng ngoài tầng 4, type = công tắc đèn, action = tắt
+score = 0.82, device = phòng trong tầng 3, type = công tắc đèn, action = tắt
+score = 0.82, device = phòng trong tầng 2, type = công tắc đèn, action = tắt
+---------------------
+
+request: bật đèn vệ sinh tầng 2
+score = 0.80, device = vệ sinh tầng 2, type = công tắc đèn, action = bật
+score = 0.62, device = phòng vệ sinh tầng 1, type = công tắc đèn, action = bật
+score = 0.53, device = phòng ngoài tầng 2, type = công tắc đèn, action = bật
+score = 0.53, device = phòng trong tầng 2, type = công tắc đèn, action = bật
+score = 0.53, device = cầu thang tầng 2, type = công tắc đèn, action = bật
+---------------------
+
+request: tắt toàn bộ đèn tầng 1
+score = 0.53, device = cầu thang tầng 1, type = công tắc đèn, action = tắt
+score = 0.53, device = hành lang tầng 1, type = công tắc đèn, action = tắt
+score = 0.50, device = đèn tầng thượng, type = công tắc đèn, action = tắt
+score = 0.50, device = phòng vệ sinh tầng 1, type = công tắc đèn, action = tắt
+score = 0.46, device = tầng hầm, type = công tắc đèn, action = tắt
+---------------------
+
+request: bật toàn bộ đèn tầng 4
+score = 0.53, device = phòng ngoài tầng 4, type = công tắc đèn, action = bật
+score = 0.53, device = phòng trong tầng 4, type = công tắc đèn, action = bật
+score = 0.53, device = cầu thang tầng 4, type = công tắc đèn, action = bật
+score = 0.50, device = đèn tầng thượng, type = công tắc đèn, action = bật
+score = 0.46, device = tầng hầm, type = công tắc đèn, action = bật
+---------------------
+
+request: bật tất cả công tắc đèn tầng 2
+score = 0.71, device = phòng ngoài tầng 2, type = công tắc đèn, action = bật
+score = 0.71, device = phòng trong tầng 2, type = công tắc đèn, action = bật
+score = 0.71, device = cầu thang tầng 2, type = công tắc đèn, action = bật
+score = 0.71, device = hành lang tầng 2, type = công tắc đèn, action = bật
+score = 0.71, device = vệ sinh tầng 2, type = công tắc đèn, action = bật
+---------------------
+
+request: đóng rèm cửa phòng khách
+score = 0.69, device = rèm cửa phòng khách, type = công tắc rèm, action = đóng kéo
+score = 0.47, device = rèm cửa kéo, type = công tắc rèm, action = đóng kéo
+score = 0.44, device = rèm cửa tầng 1, type = công tắc rèm, action = đóng kéo
+score = 0.36, device = rèm 401, type = công tắc rèm, action = đóng kéo
+score = 0.33, device = rèm tầng hầm, type = công tắc rèm, action = đóng kéo
+---------------------
+
+request: mở rèm tầng 2
+score = 0.69, device = tầng 2, type = công tắc rèm, action = mở mở
+score = 0.57, device = rèm tầng hầm, type = công tắc rèm, action = mở mở
+score = 0.57, device = rèm tầng trên, type = công tắc rèm, action = mở mở
+score = 0.54, device = tầng thượng, type = công tắc rèm, action = mở mở
+score = 0.53, device = rèm cửa tầng 1, type = công tắc rèm, action = mở mở
+---------------------
+
+request: mở công tắc rèm tầng 2
+score = 0.87, device = tầng 2, type = công tắc rèm, action = mở mở
+score = 0.75, device = rèm tầng hầm, type = công tắc rèm, action = mở mở
+score = 0.75, device = rèm tầng trên, type = công tắc rèm, action = mở mở
+score = 0.73, device = tầng thượng, type = công tắc rèm, action = mở mở
+score = 0.71, device = rèm cửa tầng 1, type = công tắc rèm, action = mở mở
+---------------------
+
+request: kéo rèm ở ban công
+score = 0.67, device = rèm ban công, type = công tắc rèm, action = đóng kéo
+score = 0.53, device = rèm cửa kéo, type = công tắc rèm, action = đóng kéo
+score = 0.50, device = rèm 401, type = công tắc rèm, action = đóng kéo
+score = 0.47, device = rèm tầng hầm, type = công tắc rèm, action = đóng kéo
+score = 0.47, device = rèm tầng trên, type = công tắc rèm, action = đóng kéo
+---------------------
+
+request: mở rèm phòng 401
+score = 0.62, device = rèm 401, type = công tắc rèm, action = mở mở
+score = 0.53, device = rèm cửa phòng khách, type = công tắc rèm, action = mở mở
+score = 0.43, device = rèm tầng hầm, type = công tắc rèm, action = mở mở
+score = 0.43, device = rèm tầng trên, type = công tắc rèm, action = mở mở
+score = 0.43, device = rèm cửa kéo, type = công tắc rèm, action = mở mở
+---------------------
+
+request: đóng rèm trên tầng 2
+score = 0.60, device = rèm tầng trên, type = công tắc rèm, action = đóng kéo
+score = 0.57, device = tầng 2, type = công tắc rèm, action = đóng kéo
+score = 0.47, device = rèm tầng hầm, type = công tắc rèm, action = đóng kéo
+score = 0.44, device = rèm cửa tầng 1, type = công tắc rèm, action = đóng kéo
+score = 0.43, device = tầng thượng, type = công tắc rèm, action = đóng kéo
+---------------------
+
+request: đọc chỉ số công tơ tầng 1
+score = 0.80, device = công tơ tầng 1, type = công tơ, action = đọc
+score = 0.62, device = tầng 2, type = công tơ, action = đọc
+score = 0.53, device = công tơ phòng a, type = công tơ, action = đọc
+score = 0.50, device = kho, type = công tơ, action = đọc
+score = 0.38, device = cầu thang tầng 1, type = công tắc đèn, action = bật
+---------------------
+
+request: đọc chỉ số công tơ tầng 2
+score = 0.77, device = tầng 2, type = công tơ, action = đọc
+score = 0.67, device = công tơ tầng 1, type = công tơ, action = đọc
+score = 0.53, device = công tơ phòng a, type = công tơ, action = đọc
+score = 0.50, device = kho, type = công tơ, action = đọc
+score = 0.38, device = tầng 2, type = công tắc rèm, action = mở mở
+---------------------
+
+request: xem chỉ số công tơ kho
+score = 0.73, device = kho, type = công tơ, action = xem
+score = 0.57, device = công tơ phòng a, type = công tơ, action = xem
+score = 0.57, device = công tơ tầng 1, type = công tơ, action = xem
+score = 0.50, device = tầng 2, type = công tơ, action = xem
+score = 0.33, device = kho, type = công tắc đèn, action = bật
